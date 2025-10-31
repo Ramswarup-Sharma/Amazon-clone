@@ -1,0 +1,1 @@
+Html and Css mostly used for UI making and build a Amazon clone. it's a very same clone of amazon.in. mostly this project is a learnig based project and using the HTML & CSS for industry level code formatting and code style.
